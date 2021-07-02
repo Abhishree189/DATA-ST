@@ -1,0 +1,12 @@
+input{
+    margin: 10px;
+}
+#bs{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#bso{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
